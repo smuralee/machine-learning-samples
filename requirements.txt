@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+botocore
+boto3
+sagemaker
+torch 
+torchvision 
+torchaudio
