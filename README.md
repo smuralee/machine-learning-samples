@@ -1,6 +1,6 @@
 # Introduction
 
-Machine learning samples using PyTorch, SciPy and scikit-learn
+Machine learning samples using PyTorch, TensorFlow, JAX, SciPy and scikit-learn
 
 ## Create environment
 

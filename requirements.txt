@@ -9,3 +9,5 @@ sagemaker
 torch 
 torchvision 
 torchaudio
+jax
+aws-fortuna
