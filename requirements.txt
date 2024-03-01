@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-# AWS
+# Amazon SageMaker
 sagemaker
 # PyTorch
 torch 
