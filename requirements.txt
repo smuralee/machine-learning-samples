@@ -4,8 +4,6 @@ pandas
 matplotlib
 scikit-learn
 # AWS
-botocore
-boto3
 sagemaker
 # PyTorch
 torch 
