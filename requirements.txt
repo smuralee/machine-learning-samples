@@ -1,13 +1,20 @@
+# Scikit-Learn
 numpy
 pandas
 matplotlib
-scipy
 scikit-learn
+# AWS
 botocore
 boto3
 sagemaker
+# PyTorch
 torch 
 torchvision 
 torchaudio
+# Tensorflow
+tensorflow
+# XLA
 jax
+flax
+# AWS Fortuna
 aws-fortuna
