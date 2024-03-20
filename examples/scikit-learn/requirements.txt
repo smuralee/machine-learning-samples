@@ -1,1 +1,4 @@
 scikit-learn
+pandas
+matplotlib
+skl2onnx
