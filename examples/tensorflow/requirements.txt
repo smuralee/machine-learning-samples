@@ -1,4 +1,5 @@
 tensorflow
 tensorflow-metal
+onnx
 onnxruntime
 tf2onnx
