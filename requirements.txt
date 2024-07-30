@@ -1,0 +1,31 @@
+# Machine learning 101
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Meta PyTorch packages
+torch
+torchvision
+torchaudio
+
+# Google JAX packages
+jax
+flax
+
+# Linear Programming
+pulp
+
+# Notebooks
+jupyterlab
+
+# Apple MLX packages - for Apple Silicon
+# mlx
+
+# Open Neural Network Exchange
+# onnx
+# onnxruntime
+
+# ML on AWS
+# boto3
+# sagemaker
