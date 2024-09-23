@@ -13,19 +13,30 @@ torchaudio
 jax
 flax
 
+# Google Tensorflow
+tensorflow
+
+# Apple MLX packages
+mlx
+
+# Open Neural Network Exchange
+onnx
+skl2onnx
+tf2onnx
+onnxruntime
+
 # Linear Programming
 pulp
 
 # Notebooks
 jupyterlab
 
-# Apple MLX packages - for Apple Silicon
-# mlx
-
-# Open Neural Network Exchange
-# onnx
-# onnxruntime
-
 # ML on AWS
-# boto3
-# sagemaker
+boto3
+sagemaker
+aws-lambda-powertools
+aws-lambda-powertools[tracer,validation,parser,datamasking]
+
+# Common
+requests
+pytest
