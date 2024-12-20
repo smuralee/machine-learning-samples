@@ -1,0 +1,18 @@
+# Google JAX
+jax
+flax
+
+# Google Tensorflow
+tensorflow_datasets
+tensorflow
+# tensorflow[and-cuda]
+
+# Open Neural Network Exchange
+onnx
+onnxruntime
+tf2onnx
+
+# Common
+jupyterlab
+matplotlib
+pandas

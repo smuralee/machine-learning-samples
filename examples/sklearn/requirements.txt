@@ -1,0 +1,11 @@
+# Scikit-Learn
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+
+# Open Neural Network Exchange
+onnx
+onnxruntime
+skl2onnx

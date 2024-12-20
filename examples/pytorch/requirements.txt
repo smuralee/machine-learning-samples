@@ -1,0 +1,12 @@
+# Meta PyTorch
+torch
+torchvision
+torchaudio
+
+# Notebooks
+jupyterlab
+
+# Common
+requests
+pytest
+black
