@@ -1,0 +1,11 @@
+# Scikit-Learn
+scikit-learn
+
+# Common
+black
+black[jupyter]
+jupyterlab
+matplotlib
+pandas
+pytest
+requests
