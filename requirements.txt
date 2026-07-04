@@ -1,0 +1,23 @@
+# Framework-agnostic ML concepts from first principles.
+# Deliberately NO deep-learning frameworks here.
+# This repo stays single-node and framework-neutral.
+
+# Numerical / scientific core
+numpy
+scipy
+pandas
+
+# Classic ML
+scikit-learn
+
+# Visualization
+matplotlib
+graphviz
+
+# Notebooks
+jupyterlab
+
+# Tooling (lint / test / format) — matches CI
+black[jupyter]
+pylint
+pytest
